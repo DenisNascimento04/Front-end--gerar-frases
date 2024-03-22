@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Front-end--gerar-frases/static/css/main.030e82a1.css",
-    "main.js": "/Front-end--gerar-frases/static/js/main.40273cd2.js",
+    "main.css": "/Front-end--gerar-frases/static/css/main.9e537572.css",
+    "main.js": "/Front-end--gerar-frases/static/js/main.424ca43b.js",
     "index.html": "/Front-end--gerar-frases/index.html",
     "static/media/icon-dice.svg": "/Front-end--gerar-frases/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
     "static/media/pattern-divider-desktop.svg": "/Front-end--gerar-frases/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
     "static/media/pattern-divider-mobile.svg": "/Front-end--gerar-frases/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
-    "main.030e82a1.css.map": "/Front-end--gerar-frases/static/css/main.030e82a1.css.map",
-    "main.40273cd2.js.map": "/Front-end--gerar-frases/static/js/main.40273cd2.js.map"
+    "main.9e537572.css.map": "/Front-end--gerar-frases/static/css/main.9e537572.css.map",
+    "main.424ca43b.js.map": "/Front-end--gerar-frases/static/js/main.424ca43b.js.map"
   },
   "entrypoints": [
-    "static/css/main.030e82a1.css",
-    "static/js/main.40273cd2.js"
+    "static/css/main.9e537572.css",
+    "static/js/main.424ca43b.js"
   ]
 }

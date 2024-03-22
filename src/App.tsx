@@ -21,7 +21,7 @@ function App() {
     },
     {
         id: 3,
-        frase: "Eu não chamo nenhuma pessoa de amigo, de amor ou de filho da puta sem que ela seja."
+        frase: "Eu não chamo nenhuma pessoa de amigo, de amor ou de um xingamento sem que ela seja."
     },
     {
         id: 4,
@@ -48,8 +48,48 @@ function App() {
         frase: "Você sempre será o vilão quando deixar de agradar alguém"
     },
     {
-        id: 0,
+        id: 10,
         frase: "Não espere de mim mais do que eu recebo de você."
+    },
+    {
+        id: 11,
+        frase: "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta."
+    },
+    {
+        id: 12,
+        frase: "Acredite em si mesmo e todo o resto se encaixará. Tenha fé em seus próprios talentos, habilidades e boa vontade."
+    },
+    {
+        id: 13,
+        frase: "O que quer que você possa fazer, ou sonhe que pode, comece. A audácia contém genialidade, poder e magia."
+    },
+    {
+        id: 14,
+        frase: "A jornada de mil milhas começa com um único passo."
+    },
+    {
+        id: 15,
+        frase: "Não espere por circunstâncias ideais. Elas nunca chegarão. Comece onde você está, com o que você tem, e faça o melhor que puder."
+    },
+    {
+        id: 16,
+        frase: "Você é mais forte do que pensa. Mais corajoso do que acredita. E mais talentoso do que imagina."
+    },
+    {
+        id: 17,
+        frase: "Não permita que o que você não pode fazer impeça você de fazer o que você pode fazer."
+    },
+    {
+        id: 18,
+        frase: "O otimismo é a fé em ação. Nada pode ser feito sem esperança e confiança."
+    },
+    {
+        id: 19,
+        frase: "Não é o que acontece com você, mas como você reage que importa."
+    },
+    {
+        id: 20,
+        frase: "A persistência é o segredo do sucesso. Nunca desista de seus sonhos. Se você cair, levante-se, sacuda a poeira e continue avançando."
     },
   ]
 
